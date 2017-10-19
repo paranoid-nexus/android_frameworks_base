@@ -526,6 +526,7 @@ android_library {
         "device_policy_aconfig_flags_lib",
     ],
     manifest: "AndroidManifest.xml",
+    additional_manifests: ["LineageManifest.xml"],
     libs: [
         "android.car",
         "extphonelib",
