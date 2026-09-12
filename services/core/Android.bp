@@ -208,6 +208,7 @@ java_library_static {
         "netd-client",
         "motorola.hardware.health-V1.0-java",
         "overlayable_policy_aidl-java",
+        "SurfaceFlingerProperties",
         "com.android.sysprop.watchdog",
         "securebox",
         "vendor.qti.hardware.servicetracker-V1.0-java",

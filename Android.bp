@@ -266,7 +266,6 @@ java_library {
         "com.android.sysprop.init",
         "com.android.sysprop.localization",
         "PlatformProperties",
-        "SurfaceFlingerProperties",
     ],
     sdk_version: "core_platform",
     installable: false,
